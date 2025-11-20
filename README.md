@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_9mtfgq9mtfgq9mtf" src="https://github.com/user-attachments/assets/59d09a4b-209c-46bb-8c54-b5c396efa7bc" /><img width="1024" height="1024" alt="Gemini_Generated_Image_9mtfgq9mtfgq9mtf" src="https://github.com/user-attachments/assets/f8210507-170d-4028-be70-56b1bc780e32" /># Smart India Hackathon Workshop
+># Smart India Hackathon Workshop
 # Date: 20/11/2025
 ## Reference Number: SIH 25006
 ## Name: Digital Farm Management Portal for Biosecurity
@@ -175,8 +175,7 @@ Phase 5: Deployment & Scale (Weeks 25-28)
 ```
 
 **System Architecture Flow:**
-![summa](arch.png)
-
+<img width="1024" height="1024" alt="Gemini_Generated_Image_9mtfgq9mtfgq9mtf" src="https://github.com/user-attachments/assets/59d09a4b-209c-46bb-8c54-b5c396efa7bc" />
 ## Feasibility and Viability
 
 ### 1. Analysis of Feasibility
